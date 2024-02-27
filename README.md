@@ -2,10 +2,13 @@
 Analyzing the given dataset to extract valuable insights and provide actionable recommendations.
 
 #Key Features:
+
 1)Import the dataset and do usual exploratory analysis steps like checking the structure & characteristics of the dataset:
+
      - Data type of all columns in the "customers" table.
      - Get the time range between which the orders were placed.
      - Count the Cities & States of customers who ordered during the given period.
+     
 2)In-depth Exploration:
      - Is there a growing trend in the no. of orders placed over the past years?
      - Can we see some kind of monthly seasonality in terms of the no. of orders being placed?
